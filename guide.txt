@@ -19,6 +19,7 @@ Save - ESC + : + x
 
 
 Saving
+- git add .
 - git commit -m "Messge"
 - git push
 
