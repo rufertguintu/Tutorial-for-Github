@@ -1,0 +1,25 @@
+Guide on how to use Github
+
+Clone
+- git clone paste_url
+
+Creating new file
+- touch filename.format
+
+Editing file
+- vim filename
+
+Command:
+Insert - press any key
+Leave Mode - ESC
+Save - ESC + : + x
+
+- git status
+- git log
+
+
+Saving
+- git commit -m "Messge"
+- git push
+
+
